@@ -1,6 +1,6 @@
 # Supports Rule
 
-Today, I worked on knowing how CSS3 supports rule works
+Today, I worked on knowing how CSS3 @supports rule works
 
 
 ## Mission
